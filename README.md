@@ -74,7 +74,7 @@ azentrix-fullstack-task1
 ```
 
 ## Screenshots
-*(Add screenshots of the application here)*
+![DocuMind AI Dashboard Mockup](screenshots/dashboard_mockup.png)
 
 ## Demo
 *(Add a link to a video demo or hosted application here)*
