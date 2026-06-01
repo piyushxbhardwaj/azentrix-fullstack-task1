@@ -1,5 +1,7 @@
 # DocuMind AI – Context-Aware Document Q&A Bot
 
+![DocuMind AI Project Banner](screenshots/readme_banner.png)
+
 ## Overview
 DocuMind AI is a Context-Aware Document Q&A Bot built using a Retrieval-Augmented Generation (RAG) architecture. It allows users to upload PDF documents or paste text directly, and then ask questions about the provided content. The bot strictly answers based on the provided context and gracefully handles situations where the information is unavailable.
 
